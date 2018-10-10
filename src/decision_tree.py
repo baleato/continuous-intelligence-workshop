@@ -132,4 +132,4 @@ def main(model=Model.DECISION_TREE, seed=None):
 
 
 if __name__ == "__main__":
-    main(seed=8675309)
+    main(seed=8675309, model=Model.RANDOM_FOREST)
