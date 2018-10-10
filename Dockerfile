@@ -11,3 +11,4 @@ RUN chmod +x /app/continuous-intelligence/start.sh
 EXPOSE 5005
 
 CMD ["/app/continuous-intelligence/start.sh"]
+
